@@ -1,5 +1,6 @@
 # Ciências de dados na industria
 
+O que eu entendi que seja a ciências de dados:
 A ciência de dados transforma um conjunto de dados dispersos em decisões, nesse caso, pega esses dados e encontra padrões e pode também fazer previsões.
 
 ## Etapas da ciências de dados
@@ -38,10 +39,11 @@ Quais ferramentas iremos utilizar no processo da análise dos dados:
 
 ## Aplicação da ciência de dados
 
+Os cenários que podemos aplicar a ciências de dados.
 <b>Eficiência Energética</b> <br>
 <b>Objetivo: </b> reduzir consumo de energia.<br>
 Fazendo a analise dos dados de consumo por máquina e por horário, encontra-se um aumento anormal de energia nas madrugadas.<br>
 <b>Resultado: </b> Problema estava em um compressor que permanecia ligado sem necessidade.
 <br>
 
-Claro que poderíamos citar várias situações que podemos aplicar a ciência de dados.
+Claro que poderíamos citar várias situações que podemos aplicar a ciência de dados, foi citado somente um cenário, mas poderíamos pensar em um ambiente escolar e podemos analisar os dados e prevê o número de evasão pode ocorrer.
